@@ -1,7 +1,7 @@
 关于mathtype修改试用期和手写输入提供详细步骤
 1、在网上下载mathtype中文版
-2、新建记事本并输入Windows Registry Editor Version 5.00
-
+2、新建记事本并输入
+Windows Registry Editor Version 5.00
 [-HKEY_CURRENT_USER\Software\JavaSoft\Prefs\com\wiris\editor\license\]
 [HKEY_CURRENT_USER\Software\JavaSoft\Prefs\com\wiris\editor\license\]
 "/Cv/E/C81+j/Rw/U/E6ws/Znt/Os/K/Q=="="11/M/P/Ir/Y/B/S/P/Pr/Q/L/Ny/T9s4/Iw=="
